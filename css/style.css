@@ -325,6 +325,7 @@ body {
   justify-content: center;
   margin-top: 50px;
   list-style: none;
+  cursor: pointer;
 }
 
 .carousel .slick-dots button {
